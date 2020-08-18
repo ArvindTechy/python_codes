@@ -1,3 +1,4 @@
+#this will sort nos according to even and odd and generate a list of those numbers, this will only work for whole integers
 def func(*args):#args will take multiple input and excute them 
     odd = []#blank list
     even = []#blank list
